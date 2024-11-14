@@ -1,0 +1,3 @@
+[submodule "the-Hangman"]
+	path = the-Hangman
+	url = https://github.com/apollomere/Team-5-Project-Hangman.git
